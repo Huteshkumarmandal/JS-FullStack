@@ -2,9 +2,11 @@
   "name": "full-stack-js",
   "version": "1.0.0",
   "description": "backend fullstick",
+  "type": "module",
+
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "echo \"nodemon src/index.js"
   },
   "keywords": [
     "javascript",
